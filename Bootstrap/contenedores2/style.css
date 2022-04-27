@@ -1,0 +1,15 @@
+.row {
+    height: 300px;
+}
+
+ [col *= class] {
+    margin: 15px;
+    background-color: aqua;
+
+}
+
+.pad-alt {
+    height: 95%;
+    margin: 5px;
+    background-color: blue;
+}

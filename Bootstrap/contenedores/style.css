@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+main {
+    background-color: antiquewhite;
+    height: 500px;
+    width: 500px;
+    margin: 100px 100px 100px 400px;
+}
+
+#A {
+    background-color: aquamarine;
+    border: solid black 2px;
+}
